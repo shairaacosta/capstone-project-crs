@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3ddc9dd-ea25-4767-8c4d-02dd78dc14ab" name="CRS_DNCHS_LIVE" url="http://31.220.110.21">
+        <fileTransfer rootFolder="/public_html" host="31.220.110.21" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
